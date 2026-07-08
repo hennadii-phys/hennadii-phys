@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Hennadii.  
-Hennadii is a condensed matter physicist.  
-Hennadii is using this GitHub to write codes for his projects.
+Hennadii is a theoretical physicist specializing in quantum condensed matter theory.  
+Hennadii uses this GitHub to develop and share code for his research projects.
